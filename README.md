@@ -13,6 +13,6 @@ Completed user stories:
  
 Walkthrough of all user stories:
 
-![tip_calculator]()
+![tip_calculator](https://cloud.githubusercontent.com/assets/1504818/5563820/d133cc9e-8e48-11e4-87da-3ce849440529.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
