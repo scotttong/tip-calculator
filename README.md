@@ -6,7 +6,7 @@ Time spent: 3 hours
 
 Completed user stories:
 
- * [x] Required: Tip Calculator with basic functionality
+ * [x] Required: Tip calculator with basic functionality
  * [x] Optional: Add a custom font
  * [x] Optional: Changed the layout and colors of the views
  * [x] Optional: Added additional labels for splitting the bill between 2-4 people 
