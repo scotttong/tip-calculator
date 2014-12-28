@@ -13,6 +13,7 @@
 		197B9DE71A4E428600DA16AA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 197B9DE61A4E428600DA16AA /* Images.xcassets */; };
 		197B9DEA1A4E428600DA16AA /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 197B9DE81A4E428600DA16AA /* LaunchScreen.xib */; };
 		197B9DF61A4E428600DA16AA /* Tip_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 197B9DF51A4E428600DA16AA /* Tip_CalculatorTests.swift */; };
+		197B9E081A50234300DA16AA /* person_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 197B9E071A50234300DA16AA /* person_icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		197B9DEF1A4E428600DA16AA /* Tip CalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tip CalculatorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		197B9DF41A4E428600DA16AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		197B9DF51A4E428600DA16AA /* Tip_CalculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip_CalculatorTests.swift; sourceTree = "<group>"; };
+		197B9E071A50234300DA16AA /* person_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = person_icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		197B9DDD1A4E428600DA16AA /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				197B9E071A50234300DA16AA /* person_icon.png */,
 				197B9DDE1A4E428600DA16AA /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				197B9DE51A4E428600DA16AA /* Main.storyboard in Resources */,
+				197B9E081A50234300DA16AA /* person_icon.png in Resources */,
 				197B9DEA1A4E428600DA16AA /* LaunchScreen.xib in Resources */,
 				197B9DE71A4E428600DA16AA /* Images.xcassets in Resources */,
 			);
@@ -405,6 +409,7 @@
 				197B9DFB1A4E428600DA16AA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		197B9DFC1A4E428600DA16AA /* Build configuration list for PBXNativeTarget "Tip CalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +418,7 @@
 				197B9DFE1A4E428600DA16AA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
